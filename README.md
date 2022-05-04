@@ -13,7 +13,9 @@ Srečno!
 
 Ta stavek sem napisal neposredno na githubu.
 
-## Pravi avtorji
+## Avtorji
 
-- Johny,
-- Nowak.
+Avtorji so:
+
+- Janez,
+- Novak.
