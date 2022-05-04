@@ -4,4 +4,5 @@ def naredi(n):
             print("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", file=f)
 
 
-naredi(10**8)
+naredi(10**7)
+print("konc")
