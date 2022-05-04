@@ -1,6 +1,7 @@
-class Model:
-    pass
+def naredi(n):
+    with open("velika.txt", "w") as f:
+        for _ in range(n):
+            print("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", file=f)
 
 
-def fibo(n):
-    return 1 if n < 2 else fibo(n - 1) + fibo(n - 2)
+naredi(10**8)
